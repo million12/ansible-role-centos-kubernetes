@@ -1,0 +1,8 @@
+---
+# defaults file for centos-kubernetes
+
+kubernetes_items:
+  - kubelet
+  - kubeadm
+  - kubectl
+  - kubernetes-cni
